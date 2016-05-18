@@ -1,0 +1,9 @@
+[submodule "trimmomatic"]
+	path = trimmomatic
+	url = https://github.com/timflutre/trimmomatic.git
+[submodule "pandaseq"]
+	path = pandaseq
+	url = https://github.com/neufeld/pandaseq.git
+[submodule "bowtie2"]
+	path = bowtie2
+	url = https://github.com/BenLangmead/bowtie2.git
